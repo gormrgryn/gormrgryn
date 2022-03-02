@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gormrgryn
-- 👀 I’m interested in front-end development, JavaScript, Vue
+- 👀 I’m interested in Java (also front-end development, JavaScript, Vue)
 - 🍃 I also had experience of working with C#, React (+Native), Node (+Express)
 - 🌱 I’m currently learning Java
 
